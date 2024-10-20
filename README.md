@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @mitadrudeb
 
 - 👀 I’m interested in software development, cloud computing, Linux.
-- 🌱 I’m currently learning Java, Java frameworks (like Spring Boot and Hibernate), Python, web development, and cloud computing.
+- 🌱 I’m currently learning Java, Java frameworks (like Spring Boot and Hibernate), Python, Linux, and cloud computing.
 - 💞️ I’m looking to collaborate on creating projects such as employee management systems, hospital management tools, and other software solutions.
 - 📫 How to reach me: 
   - Email: [mitadrudeb@gmail.com](mailto:mitadrudeb@gmail.com)
