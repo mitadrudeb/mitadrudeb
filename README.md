@@ -1,13 +1,19 @@
-### 👋 Hi, I’m @mitadrudeb
+### Hi, I'm Mitadru Deb
 
-- 👀 I’m interested in software development, cloud computing, Linux.
-- 🌱 I’m currently learning Java, Java frameworks (like Spring Boot and Hibernate), Python, Linux, and cloud computing.
-- 💞️ I’m looking to collaborate on creating projects such as employee management systems, hospital management tools, and other software solutions.
-- 📫 How to reach me: 
-  - Email: [mitadrudeb@gmail.com](mailto:mitadrudeb@gmail.com)
-  - LinkedIn: [linkedin.com/in/mitadrudeb](https://www.linkedin.com/in/mitadrudeb/)
+**Data Analyst | Data Science Enthusiast**
 
-<!---
-mitadrudeb/mitadrudeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about transforming data into actionable insights and building data-driven solutions. My focus is on statistical analysis, machine learning, and creating impactful visualizations that support business decisions.
+
+**Current Focus:**
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- SQL and database management
+- Data visualization tools (Tableau, Power BI)
+- Statistical analysis and machine learning
+- Linux and cloud computing platforms
+
+**Collaboration Interests:**
+I'm open to collaborating on projects involving predictive analytics, business intelligence dashboards, customer analytics, data pipeline development, and exploratory data analysis.
+
+**Connect with me:**
+- Email: [mitadrudeb@gmail.com](mailto:mitadrudeb@gmail.com)
+- LinkedIn: [linkedin.com/in/mitadrudeb](https://www.linkedin.com/in/mitadrudeb/)
