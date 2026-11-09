@@ -1,19 +1,30 @@
-### Hi, I'm Mitadru Deb
+### Hi, I'm Mitadru Deb 👋
 
-**Data Analyst | Data Science Enthusiast**
+**AI & LLM Engineering Enthusiast | Building with Open-Source AI**
 
-I'm passionate about transforming data into actionable insights and building data-driven solutions. My focus is on statistical analysis, machine learning, and creating impactful visualizations that support business decisions.
+I'm passionate about building practical AI applications using open-source models. Currently focused on LLM engineering — from speech recognition and text generation to building end-to-end AI pipelines that run on consumer hardware.
 
-**Current Focus:**
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+My background in data analysis gives me a strong foundation in understanding data, evaluating model outputs, and building solutions that actually solve real problems.
+
+**What I'm Working On:**
+- 🧠 Large Language Models — inference, prompting, quantization (Llama, Phi)
+- 🎤 Speech AI — transcription and audio processing (Whisper)
+- 🤗 Hugging Face Transformers & open-source model ecosystem
+- 🚀 Building AI apps with Gradio and deploying on Colab / local GPUs
+- 🐍 Python, PyTorch, bitsandbytes, accelerate
+
+**Also Experienced With:**
+- Data analysis & visualization (Pandas, NumPy, Matplotlib, Seaborn, Tableau)
 - SQL and database management
-- Data visualization tools (Tableau, Power BI)
-- Statistical analysis and machine learning
+- Statistical analysis and machine learning (Scikit-learn)
 - Linux and cloud computing platforms
 
-**Collaboration Interests:**
-I'm open to collaborating on projects involving predictive analytics, business intelligence dashboards, customer analytics, data pipeline development, and exploratory data analysis.
+**Featured Project:**
+- 🎙️ [Meeting Minutes Generator](https://github.com/mitadrudeb/meeting-minutes-generator) — Turn meeting recordings into structured minutes using Whisper + Llama 3.2 (fully open-source, runs on a free Colab T4)
+
+**Open to:**
+Collaborating on projects involving LLM applications, RAG systems, multi-modal AI, NLP pipelines, and AI-powered tools.
 
 **Connect with me:**
-- Email: [mitadrudeb@gmail.com](mailto:mitadrudeb@gmail.com)
-- LinkedIn: [linkedin.com/in/mitadrudeb](https://www.linkedin.com/in/mitadrudeb/)
+- 📧 Email: [mitadrudeb@gmail.com](mailto:mitadrudeb@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mitadrudeb](https://www.linkedin.com/in/mitadrudeb/)
