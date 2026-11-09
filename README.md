@@ -27,4 +27,4 @@ Collaborating on projects involving LLM applications, RAG systems, multi-modal A
 
 **Connect with me:**
 - 📧 Email: [mitadrudeb@gmail.com](mailto:mitadrudeb@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/mitadrudeb](https://www.linkedin.com/in/mitadrudeb/)
+- 💼 LinkedIn: [linkedin.com/in/mitadrudeb](https://www.linkedin.com/in/mitadrudeb01/)
